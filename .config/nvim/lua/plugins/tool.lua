@@ -31,4 +31,5 @@ return {
         require'window-picker'.setup()
     end,
   },
+  { 'wakatime/vim-wakatime', lazy = false }
 }
